@@ -6,7 +6,7 @@ These parsers can be used to generate OSCAL formatted content for Rev 5 baseline
 - Python 3
 - Pandas libararies
 - Regex libraries
-- minidom libraries form xlm.dom
+- minidom libraries form xml.dom
 - sys module
 - get opt module
 - xml.etree.Elementree module(Paramater Parser specific)
